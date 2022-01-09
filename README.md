@@ -8,9 +8,9 @@ The scenes are not exhaustive and readers/developers are encouraged to add more 
 to make the entire story as diverse as possible.
 
 # How to run
-Run the following command
-go run adventure.go
+Run the following command 
+$ go run adventure.go
 
 # How to build
 Run the following command
-go build adventure.go
+$ go build adventure.go
